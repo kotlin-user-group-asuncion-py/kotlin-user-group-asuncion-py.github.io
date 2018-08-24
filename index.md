@@ -1,3 +1,3 @@
-### P√gina principal Kotlin-User-Group-Asunci√n-PY
+### P√°gina principal Kotlin-User-Group-Asunc√≥n-PY
 
 #### WIP
