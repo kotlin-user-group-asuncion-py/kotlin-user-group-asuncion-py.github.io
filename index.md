@@ -1,3 +1,6 @@
-### Página principal Kotlin-User-Group-AsunióParaguay
+### Kotlin User Group Asunción, Paraguay
 
-#### WIP
+##### Objetivos
+
+ - Aprendizaje de kotlin.
+ - Utilización de propiedades de lenguajes funcionales.
