@@ -1,3 +1,3 @@
-### Página principal Kotlin-User-Group-Asunión-Y
+### Página principal Kotlin-User-Group-AsunióParaguay
 
 #### WIP
