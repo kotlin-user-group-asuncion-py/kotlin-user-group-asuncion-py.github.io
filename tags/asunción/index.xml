@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>asunción on Asunción Kotlin User group</title>
+    <link>http://kotlin-user-group-asuncion-py.github.io/tags/asunci%C3%B3n/</link>
+    <description>Recent content in asunción on Asunción Kotlin User group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Jan 2021 17:27:07 -0300</lastBuildDate><atom:link href="http://kotlin-user-group-asuncion-py.github.io/tags/asunci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://kotlin-user-group-asuncion-py.github.io/posts/first-post/</link>
+      <pubDate>Sat, 02 Jan 2021 17:27:07 -0300</pubDate>
+      
+      <guid>http://kotlin-user-group-asuncion-py.github.io/posts/first-post/</guid>
+      <description>Generación de nuevo contenido</description>
+    </item>
+    
+  </channel>
+</rss>
