@@ -4,3 +4,4 @@
 
  - Aprendizaje de kotlin.
  - Utilización de propiedades de lenguajes funcionales.
+ - Cambiando paradigmas.
