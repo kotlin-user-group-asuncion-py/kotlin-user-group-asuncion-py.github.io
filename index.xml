@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Asunción Kotlin User group</title>
-    <link>http://kotlin-user-group-asuncion-py.github.io/</link>
+    <link>https://kotlin-user-group-asuncion-py.github.io/</link>
     <description>Recent content in Home on Asunción Kotlin User group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="http://kotlin-user-group-asuncion-py.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://kotlin-user-group-asuncion-py.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://kotlin-user-group-asuncion-py.github.io/posts/first-post/</link>
+      <link>https://kotlin-user-group-asuncion-py.github.io/posts/first-post/</link>
       <pubDate>Sat, 02 Jan 2021 17:27:07 -0300</pubDate>
       
-      <guid>http://kotlin-user-group-asuncion-py.github.io/posts/first-post/</guid>
+      <guid>https://kotlin-user-group-asuncion-py.github.io/posts/first-post/</guid>
       <description>Generación de nuevo contenido</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://kotlin-user-group-asuncion-py.github.io/about/</link>
+      <link>https://kotlin-user-group-asuncion-py.github.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://kotlin-user-group-asuncion-py.github.io/about/</guid>
+      <guid>https://kotlin-user-group-asuncion-py.github.io/about/</guid>
       <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
 It makes use of a variety of open source projects including:
  https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
