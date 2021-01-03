@@ -18,14 +18,5 @@ Se trató de un curso orientado ya a programadores java, que desean introducir d
 Los ejercicios son bastantes variados, pero se realizan mediante el IDE intellij, ya que incluye la posibilidad de enviar tu código para la corrección automática en la plataforma de coursera.</description>
     </item>
     
-    <item>
-      <title>First Post</title>
-      <link>https://kotlin-user-group-asuncion-py.github.io/posts/first-post/</link>
-      <pubDate>Sat, 02 Jan 2021 17:27:07 -0300</pubDate>
-      
-      <guid>https://kotlin-user-group-asuncion-py.github.io/posts/first-post/</guid>
-      <description>Generación de nuevo contenido</description>
-    </item>
-    
   </channel>
 </rss>
