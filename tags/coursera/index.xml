@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Asunción Kotlin User group</title>
-    <link>https://kotlin-user-group-asuncion-py.github.io/posts/</link>
-    <description>Recent content in Posts on Asunción Kotlin User group</description>
+    <title>coursera on Asunción Kotlin User group</title>
+    <link>https://kotlin-user-group-asuncion-py.github.io/tags/coursera/</link>
+    <description>Recent content in coursera on Asunción Kotlin User group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2021 10:25:36 -0300</lastBuildDate><atom:link href="https://kotlin-user-group-asuncion-py.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 10:25:36 -0300</lastBuildDate><atom:link href="https://kotlin-user-group-asuncion-py.github.io/tags/coursera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reseña Curso Kotlin for Devs</title>
       <link>https://kotlin-user-group-asuncion-py.github.io/posts/rese%C3%B1a-curso-kotlin-for-devs/</link>
@@ -16,15 +16,6 @@
       <description>Reseña El curso en cuestión fue Java-for-devs https://www.coursera.org/learn/kotlin-for-java-developers/home/welcome
 Se trató de un curso orientado ya a programadores java, que desean introducir de forma secuencial algunas características de los lenguajes funcionales, en general los ejercicios fueron muy buenos, incluso el de la última semana me había parecido como imposible de poder solucionarlo; pero con la ayuda del foro lo pude realizar.
 Los ejercicios son bastantes variados, pero se realizan mediante el IDE intellij, ya que incluye la posibilidad de enviar tu código para la corrección automática en la plataforma de coursera.</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://kotlin-user-group-asuncion-py.github.io/posts/first-post/</link>
-      <pubDate>Sat, 02 Jan 2021 17:27:07 -0300</pubDate>
-      
-      <guid>https://kotlin-user-group-asuncion-py.github.io/posts/first-post/</guid>
-      <description>Generación de nuevo contenido</description>
     </item>
     
   </channel>
